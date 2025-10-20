@@ -4,6 +4,8 @@
 This project is an **interactive sales dashboard** built in Microsoft Excel to analyze retail sales data.  
 It helps track revenue, regional sales trends, top-selling products, and monthly performance, enabling quick business decisions.
 
+![dashboard](https://github.com/aliya-mojiz/Excel-Sales-Dashboard/blob/main/sd.png)
+
 ## Key Features
 - Revenue tracking by region and month
 - Identification of top-selling products and categories
